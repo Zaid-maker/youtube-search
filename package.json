@@ -19,7 +19,7 @@
   "license": "BSD",
   "dependencies": {
     "axios": "^0.19.2",
-    "xml2js": "~0.2.8"
+    "xml2js": "~0.4.23"
   },
   "devDependencies": {
     "browserify": "^16.2.3",
