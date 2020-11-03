@@ -22,7 +22,7 @@
     "xml2js": "~0.4.23"
   },
   "devDependencies": {
-    "browserify": "^16.2.3",
+    "browserify": "^17.0.0",
     "standard": "^14.3.4",
     "tape": "^5.0.1"
   }
